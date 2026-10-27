@@ -1,0 +1,9 @@
+*.dta
+*.log
+*.smcl
+*.gph
+*.xlsx
+*.csv
+*.bak
+.vscode/
+.DS_Store
